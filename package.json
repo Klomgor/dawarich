@@ -4,7 +4,7 @@
     "@rails/actiontext": "^8.0.0",
     "leaflet": "^1.9.4",
     "postcss": "^8.4.49",
-    "trix": "^2.1.8"
+    "trix": "^2.1.10"
   },
   "devDependencies": {
     "daisyui": "^4.7.3"
